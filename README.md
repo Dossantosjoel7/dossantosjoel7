@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Sou o Joel Luís dos Santos 👋
 
-<!--
-**Dossantosjoel7/dossantosjoel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta de tecnologia, guiado por bons princípios, rigor no cumprimento de tarefas e com uma enorme vontade de aprender. O meu objetivo é procurar sempre novos desafios que impulsionem o meu crescimento pessoal e profissional.
 
-Here are some ideas to get you started:
+### 👨‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 **Atualmente:** A estudar Engenharia Informática (ramo de Desenvolvimento de Aplicações) no **ISEC** (Coimbra).
+* 🔧 **Background:** Técnico de Informática, com experiência prática em suporte de hardware e ferramentas MS Office.
+* 🌱 **A desenvolver:** A aprofundar as minhas linguagens de programação no ISEC e a melhorar ativamente o meu Inglês.
+* 🤝 **Objetivo:** Integrar projetos onde possa aplicar os meus conhecimentos técnicos e contribuir com valor real.
+* ⚡ **Perfil:** Esforço-me diariamente por ser uma pessoa organizada, comprometida e pronta para colaborar.
+
+### 📫 Como contactar-me
+
+* **Email:** dossantosjoel7@gmail.com
+* **LinkedIn:** www.linkedin.com/in/joel-luís-dos-santos-0ba20b286
